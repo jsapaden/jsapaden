@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jess Sapaden and I'm a BS in Computer Science student, from Angeles City, Pampanga</h2>
+<h2 align="left">Hi 👋! My name is Jess Sapaden and I'm a BS in Computer Science student, from City College of Angeles in Angeles City, Pampanga</h2>
 
 ###
 
